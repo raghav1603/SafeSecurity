@@ -29,7 +29,7 @@ function GetData() {
 
   return (
     <div>
-      <label>Click here to fetch:- </label>
+      <label>Click here to download prefetched Data:- </label>
       {/* {console.log(col, datas)} */}
       <CsvDownloader
         filename="myfile"
