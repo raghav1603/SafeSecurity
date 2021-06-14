@@ -6,6 +6,7 @@ function GetData() {
   const [datas, setData] = useState({});
   // const [col, setCol] = useState({});
   let col = [];
+  // this will run on the start of component and will fetch data and store it in the above hooks store
   useEffect(() => {
     axios.get("https://jsonplaceholder.typicode.com/todos").then((res) => {
       let fecthedData = res.data;
