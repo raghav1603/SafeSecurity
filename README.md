@@ -16,3 +16,6 @@ CSV uploader
     - Use `Npm install` in both the folders to install the dependency
     - For frontend (reactJs) use `npm start`
     - For backend use `node app.js`
+
+
+time taken to compelete- 10hrs
