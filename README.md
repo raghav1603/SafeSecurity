@@ -2,8 +2,8 @@
 csv uploader
 
 ## Table Of content
-    - [Libraries Used](#Libraries)
-    - [How to start](#how to start)
+    - [Libraries Used](# Libraries)
+    - [How to start](# How to start)
     
 ### Libraries
     - ReactJs
