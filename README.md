@@ -1,6 +1,8 @@
 # SafeSecurity
 CSV uploader
-
+## functionalitites
+    - User will be able to download fetched data ,and download in form of  csv format
+    - User will be able to fill a form and post the data to the database
 ## Table Of content
     1. [Libraries Used](#libraries)
     2. [How to start](#how to start)
