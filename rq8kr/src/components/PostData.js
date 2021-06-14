@@ -6,7 +6,14 @@ import FormData from "./Form";
 function PostData() {
   const [formData, setFormData] = useState({});
   useEffect(() => {
-    console.log(formData);
+    console.log(formData)
+    axios.post('http://localhost:4000/EmpData',formData)
+    .then(()=>{
+      alert('data Posted')
+    })
+    .catch((e)=>{
+      console.error("encountered error",e.message)
+    })
   }, [formData]);
   return (
     <div>
