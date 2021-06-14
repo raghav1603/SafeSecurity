@@ -1,16 +1,16 @@
 # SafeSecurity
-csv uploader
+CSV uploader
 
 ## Table Of content
-    - [Libraries Used](#libraries)
-    - [How to start](#how to start)
+    1. [Libraries Used](#libraries)
+    2. [How to start](#how to start)
     
 ### Libraries
-    - ReactJs
-    - NodeJS
-    - ExpressJs
-    - Axios
-    - Csv Downloader
+    1. ReactJs
+    2. NodeJS
+    3. ExpressJs
+    4. Axios
+    5. Csv Downloader
 
 ### How to start
     - Use `Npm install` in both the folders to install the dependency
